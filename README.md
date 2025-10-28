@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=HiiRaZ&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=fff" />
 
-<img width="200" src="https://i.imgur.com/your-image.png" alt="Profile Picture"/>
+<img width="200" src="https://avatars.githubusercontent.com/u/101936094?s=400&v=4" alt="Profile Picture"/>
 
 ### 🎓 Développeur Python & JavaScript
 ### 🌱 Actuellement en train d'apprendre et de créer
