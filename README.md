@@ -2,33 +2,10 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=HiiRaZ&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=fff" />
 
-<img width="200" src="https://avatars.githubusercontent.com/u/101936094?s=400&v=4" alt="Profile Picture"/>
+<img width="200" src="https://i.imgur.com/your-image.png" alt="Profile Picture"/>
 
 ### 🎓 Développeur Python & JavaScript
 ### 🌱 Actuellement en train d'apprendre et de créer
-
-<br>
-
-## 📊 Statistiques GitHub
-
-<table>
-  <tr>
-    <td>⭐ Total Stars Earned:</td>
-    <td><b>XXX</b></td>
-  </tr>
-  <tr>
-    <td>🔄 Total Commits (2024):</td>
-    <td><b>X.Xk</b></td>
-  </tr>
-  <tr>
-    <td>🔀 Total PRs:</td>
-    <td><b>XX</b></td>
-  </tr>
-  <tr>
-    <td>🔥 Contribution Streak:</td>
-    <td><b>XX days</b></td>
-  </tr>
-</table>
 
 <br>
 
@@ -145,22 +122,6 @@ me = Developer()
 me.say_hi()
 ```
 
-<br>
-
-## 🌐 Connectons-nous
-
-<a href="https://discord.com/users/YOUR_ID">
-  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
-</a>
-<a href="https://steamcommunity.com/id/YOUR_ID">
-  <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="Steam"/>
-</a>
-<a href="mailto:your.email@example.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-
-<br><br>
-
 ## 📊 Détails du Profil
 
 ![](https://komarev.com/ghpvc/?username=HiiRaZ&color=58a6ff&style=flat-square&label=Visiteurs)
@@ -170,10 +131,6 @@ me.say_hi()
 <br>
 
 ---
-
-<p align="center">
-  <i>💡 Ouvert aux collaborations sur des projets Discord ou de traduction !</i>
-</p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer" />
 
